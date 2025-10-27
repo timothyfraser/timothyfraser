@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @timothyfraser! I'm a computational social scientist, trained as a political scientist. 
+- 👋 Hi, I’m @timothyfraser! I'm a computational social scientist! Trained as a political scientist, I teach engineers, scientists, and social scientists how to use data science to make social change! 
 - As a researcher, educator, and consultant, I analyze and visualize data trends that affect our communities' and cities' resilience to crisis, and communicate these findings with the public.
 - 👀 I’m interested in *resilience, emissions, disasters, evacuation, public health, environmental policy, renewable energy,* and *democracy*!
 - Top coding skills: network statistics, mapping, visualization, statistical simulation, webscraping, measurement and index validation, data wrangling
